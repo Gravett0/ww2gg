@@ -1,0 +1,15 @@
+#ban{
+	background-image: url('imagensww2/banner.jpg');
+	background-size: 100%;
+}
+
+a{
+	color:black;
+}
+#fundo{
+	background-image: url('imagensww2/a.jpg');
+	background-size: 100%;
+	background-repeat:no-repeat;
+	background-position:cover;
+}
+	
